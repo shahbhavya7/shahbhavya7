@@ -5,7 +5,7 @@ I am an enthusiastic and passionate explorer at the intersection of Artificial I
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhavyashah16@outlook.com](mailto:bhavyashah16@outlook.com)
-* 🧠  I'm learning Langchain
+* 🧠  I'm learning Gen AI
 * 🤝  I'm open to collaborating on AI and Web Development Projects
 * ⚡  I prefer less code more output 😎
 
