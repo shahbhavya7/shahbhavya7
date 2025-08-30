@@ -33,13 +33,5 @@ Passionate AI Engineer building intelligent systems since 2023. I create sophist
 
 <a href="https://github.com/shahbhavya7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbhavya7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/shahbhavya7/ReinforcAI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahbhavya7&repo=ReinforcAI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shahbhavya7/Finexa" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahbhavya7&repo=Finexa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br />
-<div width="100%" align="center"><a href="https://github.com/shahbhavya7/Ace_360" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahbhavya7&repo=Ace_360&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shahbhavya7/AceAI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahbhavya7&repo=AceAI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br />
-<div width="100%" align="center"><a href="https://github.com/shahbhavya7/WebSafe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahbhavya7&repo=WebSafe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shahbhavya7/CampCreeks" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahbhavya7&repo=CampCreeks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
