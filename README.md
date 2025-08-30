@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhavya Shah
+ Bhavya Shah
 ===================================================================================================================================
 
 Passionate AI Engineer building intelligent systems since 2023. I create sophisticated applications spanning Machine Learning, Deep Learning, and Generative AI—blending cutting-edge technology with thoughtful design to solve real-world challenges. Always learning, experimenting, and pushing AI boundaries.
