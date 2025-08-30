@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhavya Shah
 ===================================================================================================================================
 
-I am an enthusiastic and passionate explorer at the intersection of Artificial Intelligence and Web Development. Since 2023, I have been dedicated to building powerful, impactful, and visually stunning projects across diverse domains — from crafting sophisticated web applications to advancing innovative solutions in Machine Learning and Artificial Intelligence. Driven by an insatiable curiosity, I immerse myself deeply in the world of Generative AI and Deep Learning, constantly pushing the boundaries of what's possible. My projects are fueled by a commitment to excellence, blending cutting-edge technologies with a keen sense of design and functionality. With a profound belief in the transformative power of AI, I am passionate about creating intelligent systems that are not only technically robust but also thoughtfully designed to solve real-world challenges. My journey is defined by continuous learning, relentless experimentation, and a vision to contribute meaningfully to the future of technology.
+Passionate AI Engineer building intelligent systems since 2023. I create sophisticated applications spanning Machine Learning, Deep Learning, and Generative AI—blending cutting-edge technology with thoughtful design to solve real-world challenges. Always learning, experimenting, and pushing AI boundaries.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhavyshah.work@gmail.com](mailto:bhavyshah.work@gmail.com)
 * 🧠  I'm learning Agentic AI
-* 🤝  I'm open to collaborating on AI and Web Development Projects
-* ⚡  I prefer less code more output 😎
+* 🤝  I'm open to collaborating on AI Projects
+* ⚡  Short code, long legacy 
 
 ### Skills
 
