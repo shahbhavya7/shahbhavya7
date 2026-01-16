@@ -25,7 +25,7 @@ Passionate AI Engineer building intelligent systems since 2023. I create sophist
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/shahbhavya7"><img src="https://github-readme-stats.vercel.app/api?username=shahbhavya7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shahbhavya7's GitHub stats" /></a>
+![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahbhavya7&hide=contribs,prs)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahbhavya7&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
