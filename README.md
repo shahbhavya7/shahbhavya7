@@ -29,7 +29,7 @@ Passionate AI Engineer building intelligent systems since 2023. I create sophist
 
 ### My Github Snake (:
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahbhavya7&style=flat-square&color=blue" alt="Profile Views" />
+  
 
 
   <picture>
