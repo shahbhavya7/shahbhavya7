@@ -27,7 +27,17 @@ Passionate AI Engineer building intelligent systems since 2023. I create sophist
 
 [![Bhavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahbhavya7&bg_color=1c1917&color=0891b2&line=0891b2&point=243652&area=true&hide_border=true)](https://github.com/shahbhavya7)
 
+### My Github Snake (:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahbhavya7&style=flat-square&color=blue" alt="Profile Views" />
 
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+    <img src="./dist/github-snake.svg" alt="Snake animation" />
+  </picture>
+</div>
 
 
 
