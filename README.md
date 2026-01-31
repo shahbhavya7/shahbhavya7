@@ -1,4 +1,4 @@
-![Header](./github-header-bannerr.png)
+![Header](./github-header-bannerrr.png)
 ## 🚀 About Me
 
 Passionate AI Engineer building intelligent systems since 2023. I create sophisticated applications spanning Machine Learning, Deep Learning, and Generative AI—blending cutting-edge technology with thoughtful design to solve real-world challenges. Always learning, experimenting, and pushing AI boundaries.
